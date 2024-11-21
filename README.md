@@ -28,3 +28,14 @@ Some parts of this repo is supposed to be changed later
 - reference for some concepts in arabic 
 - Add some teaching materials
   -  vedic mathematics
+- college courses [I'll organize them later]
+  - Operations research
+  - Probability theory
+  - Special functions
+  - Numerical analysis
+  - Analytical dynamics
+  - Special relativity
+  - General relativity
+  - Physics
+  - Calculus
+  - Educational subjects
