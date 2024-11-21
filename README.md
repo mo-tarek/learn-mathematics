@@ -2,7 +2,7 @@
 Some parts of this repo is supposed to be changed later
 
 ## Roadmap for learning maths
-1. pre-algebra
+1. Pre-algebra
 2. Algebra 1
 3. High School Geometry
 4. Algebra 2
@@ -26,3 +26,5 @@ Some parts of this repo is supposed to be changed later
 - look at ossu, khan academy & my college curriculums
 - high-ranked colleges: stanford, mit, oxford, uc davis, etc. 
 - reference for some concepts in arabic 
+- Add some teaching materials
+  -  vedic mathematics
