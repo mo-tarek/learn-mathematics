@@ -15,7 +15,10 @@ Some parts of this repo is supposed to be changed later
 11. AP/College calculus AB
 12. Multivariable calculus
 13. Linear Algebra
-
+---
+### Pre-algebra 
+- Videos &rarr; [FreeCodeCamp](freecodecamp.org)
+- Books &rarr; [OpenStax](BrokenLink.com)
 
 
 ## More to add 
